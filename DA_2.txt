@@ -1,0 +1,16 @@
+1. B  
+2. A  
+3. D  
+4. B  
+5. D  
+6. D  
+7. A  
+8. C  
+9.  
+    Dong sai: 6  
+    Sua lai: cout << "Gia tri vua nhap: " << a;
+10.  
+    Dong sai: 4  
+    Sua lai: int Int;
+11. C  
+12. C

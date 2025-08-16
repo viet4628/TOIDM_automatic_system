@@ -1,0 +1,16 @@
+1. B
+2. c
+3. A
+4. D
+5. A
+6. C
+7. D
+8. B
+9. 
+    Dong sai:5
+    Sua lai: cin >> a;
+10. 
+    Dong sai: 4
+    Sua lai: int Int;
+11. C
+12. A
